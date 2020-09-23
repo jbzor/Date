@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "86401941348",
+    "firebase_url": "https://flit-a29fb.firebaseio.com",
+    "project_id": "flit-a29fb",
+    "storage_bucket": "flit-a29fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86401941348:android:de58b19fc1b8aeae848471",
+        "android_client_info": {
+          "package_name": "com.sunnwy.dating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86401941348-ui0jg0in0j6qg8c9f1qo49ogmpveq2lq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sunnwy.dating",
+            "certificate_hash": "4fcbd59bf155bf1056e1b11c02cb60e107af1176"
+          }
+        },
+        {
+          "client_id": "86401941348-blcs8doucffrakattite3rabq9joq477.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRPiNJG3AmzoNhNiQy-8ydLWmFw1N8vmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86401941348-blcs8doucffrakattite3rabq9joq477.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
